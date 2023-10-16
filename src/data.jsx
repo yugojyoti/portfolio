@@ -100,7 +100,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/bigBoxKart.png",
+    img: "/projectImage/bigBoxKart.png",
     url: " https://bigboxkaert.onrender.com/",
     github: "https://github.com/yugojyoti/ecommerce_mern",
     title: "BigBoxKart - A MERN Stack Ecommerce site",
@@ -108,7 +108,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/whiteboard.png",
+    img: "/projectImage/whiteboard.png",
     url: "https://whiteboard-uf3a.onrender.com",
     github: "https://github.com/yugojyoti/realtime_whiteboard_typescipt_react",
     title: "A Realtime WhiteBoard Sharing App using Mern Stack",
@@ -116,7 +116,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/connectZone.png",
+    img: "/projectImage/connectZone.png",
     url: "https://connectzone.onrender.com/login",
     github: "https://github.com/yugojyoti/connectzone_mern",
     title: "ConnectZone - Mern Stack Social Media App",
@@ -124,7 +124,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/foodpoint.png",
+    img: "/projectImage/foodpoint.png",
     url: "https://foodpoint.vercel.app/",
     github: "https://github.com/yugojyoti/reservation_2",
     title: "FoodPoint - Restaurant Booking App using Nextjs",
@@ -132,7 +132,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/api.jpg",
+    img: "/projectImage/api.jpg",
     url: "",
     github: "https://github.com/yugojyoti/job-api_NODE-BACKEND",
     title: "Job API - Backend using Node, Express and MongoDb",
@@ -140,7 +140,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "../src/assets/projectImage/api3.png",
+    img: "/projectImage/api3.png",
     url: "",
     github: "https://github.com/yugojyoti/store_api_node_express",
     title: "Store API - Backend using Node, Express and MongoDb",
