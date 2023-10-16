@@ -26,7 +26,7 @@ const Hero = () => {
               </h1>
             </div>
 
-            <div className="mt-10">
+            <div className="mt-10 pt-2">
               {/* <p className="mt-4 text-3xl text-slate-900 capitalize tracking-wide">
                 Full Stack Developer
               </p> */}
