@@ -104,7 +104,7 @@ export const projects = [
     url: " https://bigboxkaert.onrender.com/",
     github: "https://github.com/yugojyoti/ecommerce_mern",
     title: "BigBoxKart - A MERN Stack Ecommerce site",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "A contemporary E-Commerce platform has been developed, with a front-end created using React, a back-end API built using Node and Express, and MongoDB serving as the database. This platform empowers users to seamlessly explore, review, and purchase products, while administrators can effortlessly manage product listings, edit details, and oversee the shipping process for customer purchases. To facilitate transactions, PayPal integration has been implemented. The technology stack includes React, Node, Express, MongoDB, and Redux for state management. ",
   },
   {
     id: nanoid(),
@@ -112,7 +112,7 @@ export const projects = [
     url: "https://whiteboard-uf3a.onrender.com",
     github: "https://github.com/yugojyoti/realtime_whiteboard_typescipt_react",
     title: "A Realtime WhiteBoard Sharing App using Mern Stack",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "This is a real-time collaborative whiteboard application, enabling multiple users to join and observe live updates on the whiteboard. Users have the ability to utilize tools such as pencils, rectangles, and other shapes, as well as change colors, and perform redo and undo actions. This platform is ideal for real-time teaching or sharing creative concepts. The technology stack encompasses React, Node, Express, and Socket.IO for real-time communication, with Rough.js employed for canvas drawing. ",
   },
   {
     id: nanoid(),
@@ -120,7 +120,7 @@ export const projects = [
     url: "https://connectzone.onrender.com/login",
     github: "https://github.com/yugojyoti/connectzone_mern",
     title: "ConnectZone - Mern Stack Social Media App",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "This is a social media website developed with the MERN stack. Users have the ability to register, upload images, leave comments, and send friend requests to other users. Additionally, users can update their profile information. The images are stored on Cloudinary. The backend API is implemented using Express and Node.js. The technology stack includes React, Node.js, Express, MongoDB, Cloudinary, and Redux for state management. ",
   },
   {
     id: nanoid(),
@@ -128,7 +128,7 @@ export const projects = [
     url: "https://foodpoint.vercel.app/",
     github: "https://github.com/yugojyoti/reservation_2",
     title: "FoodPoint - Restaurant Booking App using Nextjs",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "This is a Food booking web application, and it's entirely constructed using Next.js, encompassing both the front-end and back-end. Users can register, log in, and reserve tables for specific dates and times. For data storage, Prism and PostgreSQL are employed. The technology stack comprises Next.js, Prisma, and PostgreSQL.",
   },
   {
     id: nanoid(),
@@ -136,7 +136,7 @@ export const projects = [
     url: "",
     github: "https://github.com/yugojyoti/job-api_NODE-BACKEND",
     title: "Job API - Backend using Node, Express and MongoDb",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "The backend API has been  developed using Node.js and Express, integrated with MongoDB. It empowers users to perform various actions, including login, registration, job creation, posting, editing, deletion, and accessing a comprehensive list of available job opportunities.",
   },
   {
     id: nanoid(),
@@ -144,6 +144,14 @@ export const projects = [
     url: "",
     github: "https://github.com/yugojyoti/store_api_node_express",
     title: "Store API - Backend using Node, Express and MongoDb",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "This straightforward store API has been crafted using Node, Express, and MongoDB. It enables users to seamlessly retrieve all store items and manage them by adding, updating, or modifying details as needed.",
+  },
+  {
+    id: nanoid(),
+    img: "/projectImage/api2.png",
+    url: "",
+    github: "https://github.com/yugojyoti/Task-Manager_nodejs",
+    title: "TaskManager API - Backend using Node, Express and MongoDb",
+    text: "This straightforward Task Manager API has been crafted using Node, Express, and MongoDB. It enables users to seamlessly retrieve all task items and manage them by adding, updating,deleting or modifying details as needed.",
   },
 ];
