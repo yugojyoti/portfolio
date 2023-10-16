@@ -50,17 +50,20 @@ const ContactDetail = () => (
           </div>
           <div className="mt-3">{"}"}</div>
           <div className="flex gap-x-4 mt-4  justify-center">
-            <a href="https://github.com/yugojyoti">
+            <a href="https://github.com/yugojyoti" target="_blank">
               <FaGithubSquare className="h-8 w-8 text-slate-700 hover:text-black bg-white duration-300" />
             </a>
-            <a href="https://www.linkedin.com/in/yugojyoti-mohanta-067985178/">
+            <a
+              href="https://www.linkedin.com/in/yugojyoti-mohanta-067985178/"
+              target="_blank"
+            >
               <FaLinkedin className="h-8 w-8 text-blue-700 hover:text-blue-900 duration-300  bg-white" />
             </a>
-            <a href="https://twitter.com/yugojyotimuna">
+            <a href="https://twitter.com/yugojyotimuna" target="_blank">
               <FaTwitterSquare className="h-8 w-8 text-sky-500 hover:text-blue-900 duration-300  bg-white" />
             </a>
             <a href="mailto:yugojyotimohanta@gmail.com">
-              <MdEmail className="h-8 w-8 text-purple-600 hover:text-purple-800 duration-300  bg-white" />
+              <MdEmail className="h-8 w-8 text-gray-700 hover:text-black duration-300  bg-white" />
             </a>
           </div>
         </div>
