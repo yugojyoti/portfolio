@@ -19,7 +19,7 @@ const Skills = () => {
     };
   }, []);
   return (
-    <section className="py-20 mx-auto max-w-7-xl px-8" id="skills">
+    <section className="py-20 mx-auto max-w-7-xl px-8 bg-slate-50" id="skills">
       <SectionTitle text="tech stack" />
       <div className="py-16 grid gap-8 grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6  ">
         {skills.map((skill, index) => {
