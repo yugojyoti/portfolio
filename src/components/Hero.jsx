@@ -17,7 +17,7 @@ const Hero = () => {
           <article className="ml-10 section-with-particles" id="article">
             <ParticleBackground />
             <div>
-              <h1 className="mb-2 font-pixify text-5xl text-emerald-600 h-20 md:pb-2 lg:pb-2 sm:pb-2  hover:text-orange-600 ">
+              <h1 className="mb-2 font-pixify text-5xl text-orange-600 h-20 md:pb-2 lg:pb-2 sm:pb-2  hover:text-orange-600 ">
                 Hi,{" "}
                 <span>
                   {" "}
