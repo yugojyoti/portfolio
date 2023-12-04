@@ -31,9 +31,7 @@ const Hero = () => {
                 Full Stack Developer
               </p> */}
               <AnimateText />
-              <p className="mt-2 text-xl text-slate-700 capitalize tracking-wide">
-                Passonate about Science & Tech{" "}
-              </p>
+              
               <p className="mt-2 text-xl text-slate-700 capitalize tracking-wide">
                 Loves Turning ideas Into Reality{" "}
               </p>

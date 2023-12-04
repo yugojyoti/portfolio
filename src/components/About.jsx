@@ -9,16 +9,8 @@ const About = () => {
         <article>
           <SectionTitle text="About Me" />
           <p className="text-slate-600 mt-8 leading-loose">
-            I am Yugojyoti Mohanta, Master's in Physics from Indian Institute of
-            Science Education And Research (IISER) Berhampur. My passion for web
-            development has led me to become a skilled full-stack developer
-            proficient in technologies like React, Node.js, Express, and
-            MongoDB. Additionally, I have expertise in Golang and Flutter,
-            making me a versatile software developer capable of tackling diverse
-            projects. With a commitment to staying up-to-date with industry
-            trends and a dedication to delivering high-quality results, I'm
-            eager to contribute to exciting technology projects and
-            collaborations.
+            
+I'm Yugojyoti Mohanta, a skilled web developer with 1 year of experience. Proficient in React, Node.js, Express, MongoDB, Golang, and Flutter, I bring versatile expertise to diverse projects. Committed to staying current with industry trends, I deliver high-quality results. Eager to contribute to exciting technology projects and collaborations, I combine technical proficiency with a passion for innovation.
           </p>
         </article>
       </div>

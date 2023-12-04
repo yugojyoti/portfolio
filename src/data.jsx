@@ -5,9 +5,10 @@ import {
   SiExpress,
   SiNodedotjs,
   SiMongodb,
-  SiPrisma,
+  
   SiTailwindcss,
   SiFlutter,
+  SiAmazonaws 
 } from "react-icons/si";
 
 import { TbBrandNextjs } from "react-icons/tb";
@@ -79,8 +80,8 @@ export const skills = [
   },
   {
     id: nanoid(),
-    title: "Prisma",
-    icon: <SiPrisma className="h-16 w-16 " />,
+    title: "Aws",
+    icon: <SiAmazonaws className="h-16 w-16 " />,
     text: ".",
   },
   {
